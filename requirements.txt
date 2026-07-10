@@ -1,8 +1,10 @@
-matplotlib
 numpy
-ipywidgets
-ipympl
-jupyter_contrib_nbextensions
-scikit-image
+matplotlib
 scipy
+scikit-image
 imageio
+pandas
+openpyxl
+ipympl
+jupyterlab
+notebook
